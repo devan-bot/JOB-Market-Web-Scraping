@@ -1,5 +1,5 @@
 ## This dataset is based on insights from Most In-Demand Jobs
-[ResumeGenius -published on February 10, 2025] (https://resumegenius.com/blog/job-hunting/most-in-demand-jobs) and [Forbes published on February 11, 2025](https://www.forbes.com/sites/bryanrobinson/2025/02/11/high-paying-in-demand-jobs-for-2025-revealed-in-new-study/). These reports highlight the 15 most in-demand jobs for 2025.These reports highlight the 15 most in-demand jobs for 2025, which offer both high market demand and competitive salaries.
+[ResumeGenius -published on February 10, 2025](https://resumegenius.com/blog/job-hunting/most-in-demand-jobs) and [Forbes published on February 11, 2025](https://www.forbes.com/sites/bryanrobinson/2025/02/11/high-paying-in-demand-jobs-for-2025-revealed-in-new-study/). These reports highlight the 15 most in-demand jobs for 2025.These reports highlight the 15 most in-demand jobs for 2025, which offer both high market demand and competitive salaries.
 
 However, the original posts lack detailed information on required skills, work experience, job locations, and other specifics. To bridge this gap, I scraped job listings from [Naukri](https://www.naukri.com/), a well-known job search platform, to create a comprehensive dataset.
 
