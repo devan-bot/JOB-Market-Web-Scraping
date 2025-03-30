@@ -1,5 +1,6 @@
 ## Most In-Demand Jobs in 2025
 
+
 This dataset is based on insights from Most In-Demand Jobs
 [ResumeGenius -published on February 10, 2025](https://resumegenius.com/blog/job-hunting/most-in-demand-jobs) and [Forbes published on February 11, 2025](https://www.forbes.com/sites/bryanrobinson/2025/02/11/high-paying-in-demand-jobs-for-2025-revealed-in-new-study/). These reports highlight the 15 most in-demand jobs for 2025.These reports highlight the 15 most in-demand jobs for 2025, which offer both high market demand and competitive salaries.
 
@@ -24,6 +25,7 @@ Stay adaptable and open to new opportunities.
 
 
 # If you found this repository useful, consider giving it a star!
+
 
 [For more information, check out my Kaggle profile](https://www.kaggle.com/misganawtboltana)
 
